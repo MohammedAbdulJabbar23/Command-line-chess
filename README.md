@@ -13,11 +13,13 @@ Features
     Choose to play as white or black
     Real-time move handling
     ANSI color-coded board representation in terminal
+    
 
 Requirements
 
     Go (version 1.18 or later)
     Stockfish chess engine
+    
 
 Installation
 
@@ -25,8 +27,10 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/chess-server-go.git
-cd chess-server-go
+    git clone https://github.com/yourusername/chess-server-go.git
+    
+    
+    cd chess-server-go
 
 Install Dependencies:
 
@@ -48,7 +52,8 @@ Usage
 
     bash
 
-go run main.go
+    go run main.go
+    
 
 The server will start listening on port 8080.
 
