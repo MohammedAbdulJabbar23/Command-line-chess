@@ -2,7 +2,7 @@
 
 Chess Server with Stockfish
 
-You can try it as well by
+You can try it online by:
 
     telnet 16.171.159.45 8080
 
