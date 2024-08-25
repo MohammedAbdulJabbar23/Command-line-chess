@@ -23,9 +23,9 @@ Requirements
 
 Installation
 
-    Clone the Repository:
+Clone the Repository:
 
-    bash
+bash
 
     git clone https://github.com/yourusername/chess-server-go.git
     
@@ -46,11 +46,10 @@ bash
 
 Usage
 
-    Run the Server:
+  Run the Server:
 
-    Start the chess server with:
-
-    bash
+  Start the chess server with:
+  bash
 
     go run main.go
     
