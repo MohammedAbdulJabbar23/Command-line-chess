@@ -2,9 +2,6 @@
 
 Chess Server with Stockfish
 
-You can try it online by:
-
-    telnet 16.171.159.45 8080
 
 A simple TCP-based chess server written in Go that integrates with the Stockfish chess engine. This server allows players to connect, choose their side, make moves, and play against Stockfish.
 Features
